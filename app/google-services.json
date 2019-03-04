@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1038427614750",
+    "firebase_url": "https://remote-config-54a12.firebaseio.com",
+    "project_id": "remote-config-54a12",
+    "storage_bucket": "remote-config-54a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038427614750:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038427614750-j8lhftkh9ns6p44umgd1105e6dt7fbcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtx3fMmINPtslqyQULareSIJ91OUeovB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038427614750:android:2f1e48674c44983a",
+        "android_client_info": {
+          "package_name": "vuzix.com.sample.i_sight_git"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038427614750-j8lhftkh9ns6p44umgd1105e6dt7fbcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtx3fMmINPtslqyQULareSIJ91OUeovB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
